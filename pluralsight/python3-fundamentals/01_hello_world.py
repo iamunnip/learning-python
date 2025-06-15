@@ -1,7 +1,7 @@
 print("Hello World!")
 
-messgae = "Hello"
-print(messgae)
+message = "Hello"
+print(message)
 
 msg: str = "World"
 print(msg)
